@@ -1,5 +1,5 @@
 
-### Hi, I'm Ambrose
+### Hey there!
 
 I am learning about building systems that scale, occasionally taking apart (physical and digital) things. I also build websites and run servers.
 
